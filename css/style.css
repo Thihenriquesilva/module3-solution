@@ -1,0 +1,50 @@
+*{
+    font-family: 'Ubuntu', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+#text-principal{
+    margin-top: 90px;
+}
+
+#header-nav{
+    /* height: 70px; */
+    background-color: rgb(183 183 183);
+    border-bottom: 2px solid black;
+    /* margin-bottom: 20px; */
+}
+
+#brand{
+    height: auto;
+    padding-bottom: 5px;
+}
+
+#brand > a {
+    font-size: 1.8rem;
+    
+    font-weight: 700;
+    margin: 0;
+    
+}
+
+h1,h2{
+    text-align: center;
+}
+
+#body-container{
+    margin-top: 20px;
+    background-color: bisque;
+}
+
+ul li a {
+    text-align: center;
+}
+
+@media (max-width:576px){
+    #body-container{
+        width: 90%;
+        /* margin-left: 10px;
+        margin-right: 10px; */
+    }
+}
