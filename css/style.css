@@ -44,7 +44,5 @@ ul li a {
 @media (max-width:576px){
     #body-container{
         width: 90%;
-        /* margin-left: 10px;
-        margin-right: 10px; */
     }
 }
