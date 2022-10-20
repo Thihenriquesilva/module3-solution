@@ -28,8 +28,8 @@
     
 }
 
-h1,h2{
-    text-align: center;
+section > h2{
+    margin-top: 10px;
 }
 
 #body-container{
